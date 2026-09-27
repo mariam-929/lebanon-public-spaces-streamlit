@@ -44,8 +44,8 @@ doc.add_heading("Streamlit assignment — Public spaces in Lebanon", level=0)
 para("Mariam Ismail · Visualization & Communication · AUB, Fall 2026", italic=True, color=MUTED)
 
 doc.add_heading("Links", level=1)
-para("App (Streamlit Community Cloud): [paste your app link here after deploying]")
-para("GitHub repository: [paste your repository link here]")
+para("App (Streamlit Community Cloud): https://mariam-929-lebanon-public-spaces-streamlit-streamlit-app-ns4x9t.streamlit.app/")
+para("GitHub repository: https://github.com/mariam-929/lebanon-public-spaces-streamlit")
 
 doc.add_heading("Snapshot of the page", level=1)
 para("The national view. The governorate control is set to All Lebanon, so the district control is "

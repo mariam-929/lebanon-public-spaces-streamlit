@@ -4,7 +4,9 @@ An interactive Streamlit page about public parks in Lebanon's 1,137 towns, built
 Visualization & Communication course (AUB, Fall 2026). It extends my Plotly assignment,
 using the same dataset and the same cleaning steps.
 
-**Live app:** _add the Streamlit Community Cloud link here after deploying_
+**Live app:** https://mariam-929-lebanon-public-spaces-streamlit-streamlit-app-ns4x9t.streamlit.app/
+
+**Repository:** https://github.com/mariam-929/lebanon-public-spaces-streamlit
 
 ## What the page shows
 
